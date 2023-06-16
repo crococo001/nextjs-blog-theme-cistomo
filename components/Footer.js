@@ -83,6 +83,7 @@ export default function Footer({ copyrightText }) {
       <p className="dark:text-white uppercase mb-3 font-bold opacity-60">
         {copyrightText}
       </p>
+Follow me for more information <a href="apkcroc.com">apk croc</a>
       <ThemeSwitcher />
     </footer>
   );
