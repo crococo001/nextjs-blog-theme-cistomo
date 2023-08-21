@@ -45,7 +45,7 @@ export default function Index({ posts, globalData }) {
             </li>
           ))}
         </ul>
-            <Link><p>Follow me more information <a href="apkcroc.com">apk croc</a></p> </Link>
+            <Link href="apkcroc.com">apk croc</Link>
       </main>
       <Footer copyrightText={globalData.footerText} />
       <GradientBackground
