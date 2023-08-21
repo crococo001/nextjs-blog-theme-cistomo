@@ -89,4 +89,4 @@ export default function Footer({ copyrightText }) {
   
   );
 }
-<p>Follow me more information <a href="apkcroc.com">apk croc</a></p>
+
