@@ -86,6 +86,7 @@ export default function Footer({ copyrightText }) {
 
       <ThemeSwitcher />
     </footer>
-  <p>Follow me more information <a href="apkcroc.com">apk croc</a></p>
+  
   );
 }
+<p>Follow me more information <a href="apkcroc.com">apk croc</a></p>
